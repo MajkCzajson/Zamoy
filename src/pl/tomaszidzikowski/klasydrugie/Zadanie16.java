@@ -1,7 +1,8 @@
 package pl.tomaszidzikowski.klasydrugie;
 
 import java.util.Scanner;
-
+/*Napisz funkcję, która stwierdza czy liczba jest pierwsza
+ */
 public class Zadanie16 {
     public static boolean isPrime(int number){
         for (int i = 2; i <= Math.ceil(Math.sqrt(number)); i++) {
