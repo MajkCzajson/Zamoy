@@ -1,8 +1,8 @@
-package pl.tomaszidzikowski.klasytrzecie;
-/*Napisz funkcję, która wyznacza sumę cyfr zadanej liczby całkowitej
-*
+package pl.tomaszidzikowski.klasydrugie;
+/*
+Napisz funkcję, która wyznacza sumę cyfr zadanej liczby całkowitej.
  */
-public class Zadanie8 {
+public class Zadanie15 {
     public static int sum(int number){
         String stringNumber=String.valueOf(number);
         int sum=0;
