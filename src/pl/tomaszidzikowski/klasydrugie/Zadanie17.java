@@ -1,7 +1,7 @@
 package pl.tomaszidzikowski.klasydrugie;
 
 import java.util.Scanner;
-/*Napisz funkcję, która oblicza liczbę dzielników podanej liczby
+/*Napisz metodę, która oblicza liczbę dzielników podanej liczby
  */
 public class Zadanie17 {
     public static int countDividors(int number){

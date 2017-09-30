@@ -1,6 +1,6 @@
 package pl.tomaszidzikowski.klasydrugie;
 /*
-Napisz funkcję, która wyznacza sumę cyfr zadanej liczby całkowitej.
+Napisz metodę, która wyznacza sumę cyfr zadanej liczby całkowitej.
  */
 public class Zadanie15 {
     public static int sum(int number){
