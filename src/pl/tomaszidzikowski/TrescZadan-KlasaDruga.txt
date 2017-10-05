@@ -1,0 +1,27 @@
+1.Napisz program, który deklaruje 2 zmienne całkowite i na ekran wypisuje ich sumę.
+2.Napisz program, który odczytuje dwie liczby całkowite i zamienia je miejscami.
+3.Napisz program, który odczytuje liczbę rzeczywistą i wyświetla wartość całkowitą tej liczby.
+4.Napisz program, który wczytuje wiek i sprawdza czy osoba jest pełnoletnia.
+5.Napisz program, który sprawdza czy liczba jest podzielna przez 4.
+6.Napisz program, który wypisuje liczby naturalne od 1 do 100.
+7.Napisz program, który oblicza silnię.
+8.Napisz program, który odczytuję ciąg znaków i wypisuje ostatnią literę.
+9.Napisz program, który odczytuje napis i wypisuje go wspak.
+10.Napisz program, który odczytuje imię i sprawdza czy jest ono palindromem.
+11.Napisz program, który wypisuje co drugą literę podanego wyrazu.
+12.Napisz program, który odczytuje dany wyraz z konsoli tak długo aż natrafi na poprawnie wprowadzone hasło.
+13.Napisz metodę obliczającą sumę dwóch liczb całkowitych.
+14.Napisz metodę, która sprawdzi czy z trzech podanych długości boków można zbudować trójkąt a następnie obliczy jego pole.
+15.Napisz metodę, która wyznacza sumę cyfr zadanej liczby całkowitej.
+16.Napisz metodę, która stwierdza czy liczba jest pierwsza.
+17.Napisz metodę, która oblicza liczbę dzielników podanej liczby.
+18.Napisz metodę, która odczytuje a i n i zwraca a do potęgi n.
+19.Npisz metodę, którą wczytuje n liczb do tablicy, a następnie wypisuje je w odwrotnej kolejności.
+20.Dla tablicy liczb całkowitych znajdź jednocześnie minimum i maksimum tablicy
+21.Napisz program, który wyznaczy ilość wystąpień liczby k w podanym ciągu liczb.
+22.Napisz program, który losuję liczbę z przedziału <1,100>
+23.Napisz program TOTOLOTEK, który losuj 6 liczb z przedziału <6,49> Dla chętnych: liczby nie mogą sie powtarzać.
+23.Napisz program, który przy pomocy instrukcji switch obliczy liczbę samogłosek we wprowadzonych przez użytkowniak tekście.
+Każda samogłoska ma być obliczona oddzielnie.
+24.Napisz program, który dzieli dwie liczby całkowite. Zabezpiecz program przed dzieleniem przez ZERO!
+
