@@ -1,0 +1,36 @@
+1.Napisz program, który sprawdza czy ciąg znaków jest palindromem.
+2.Napisz program, który odczytuje napis i wypisuje go wspak.
+3.Napisz program, który sprawdza czy podany wyraz jest poprawnym kodem pocztowym
+4.Napisz program, który oblicza liczbę małych liter w podanym wyrazie.
+5.W tablicy jednowymiarowej znajdź liczbę, która występuje najczęściej.
+6.Sprawdź czy w tablicy jakaś liczba występuje co najmniej trzykrotnie.
+7.Jest dana tablica 10 liczb całkowitych. Sprawdź ile jest różnych reszt z dzielenia tych liczb przez 37.
+8.Napisz funkcję, która wyznacza sumę cyfr zadanej liczby całkowitej
+9.Napisz funkcję, która stwierdza czy liczba jest pierwsza
+10.Napisz funkcję, która oblicza liczbę dzielników podanej liczby
+11.Znajdz liczbę z przedziału 2 do 10000, która ma największą liczbę dzielników
+12.Napisz program, który będzie umożliwiał tłumaczenie słów z języka polskiego na angielski.
+12.Napisz program, który doda 100 000 elementów "a" do Stringa i tyle samo do StringBuildera i sprawdzi czas działania obu operacji
+13.Napisz program, który doda 100 000 elementów do ArrayList i sprawdzi wydajność wyświetlania jej elementów przy użyciu różnych pętli
+   for (int i=0,...), foreach, Iterator
+14.Korzystając ze Stosu, napisz funkcję, która odczytuje daną liczbę i zwraca liczbę zapisaną w systemie dwójkowym.
+Argumentem funkcji jest liczba całkowita(int), zwróconym wynikiem ciąg znaków (String).
+15.Napisz program, w którym będzie zadeklarowana lista elementów typu String, następnie
+ napisz metodę która będzie sprawdzać czy występują w niej powtarzające się elementy.
+16.Napisz program, w którym będzie zadeklarowana lista elementów typu String, następnie
+napisz metodę, która będzie zliczać liczbę wystąpień poszczególnych elementów.
+17.Napisz program, który wczytuje liczby z pliku. Znajduje części wspólne i liczby które znajdują się w pierwszym pliku , a w drugim ich nie ma.
+18.Napisz program, który posortuje zdefiniową tablicę. Użyj klasy TreeSet.
+19.Napisz program, kóry pokaże różnicę w sposobie zapisu elementów do HashMapy, LinkedHashMapy i TreeMapy.
+20.Napisz program TOTOLOTEK, który będzie losował i wyświetli w sposób uporządkowany 6 liczb z przedziału <1,49>. Należy użyć kolekcji HashSet.
+21.Utwórz klasę Book przechowującą informacje o książce: np title,author,pageCount,price,
+   1)W klasie testujacej utwórz listę książek i posortuj je po autorze.
+   2)Napisz komparatory do sortowania ksiązek po ilości stron oraz po cenie i tytule.
+   3)Napisz klasę testującą cały program.
+22.Napisz aplikację pozwalającą przechowywać informacje o pracownikach (imię, nazwisko, wiek, wzrost, płeć, data zatrudnienia).
+Aplikacja powinna ponadto umożliwiać:
+a)Dodawanie nowych pracowników
+b)wyszukiwanie pracownikaów według różnych kryteriów
+c)wyszukiwanie pracownika najstarszego, najmłodszego itp.
+d)wyszukiwanie pracowników o najwyższym stażu w firmie w odniesieniu do bieżącej daty
+e)sortowanie pracowników według różnych kryteriów: nazwiska, wieku, wagi
