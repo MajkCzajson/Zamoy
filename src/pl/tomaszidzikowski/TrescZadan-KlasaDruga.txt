@@ -16,12 +16,12 @@
 16.Napisz metodę, która stwierdza czy liczba jest pierwsza.
 17.Napisz metodę, która oblicza liczbę dzielników podanej liczby.
 18.Napisz metodę, która odczytuje a i n i zwraca a do potęgi n.
-19.Npisz metodę, którą wczytuje n liczb do tablicy, a następnie wypisuje je w odwrotnej kolejności.
+19.Napisz metodę, którą wczytuje n liczb do tablicy, a następnie wypisuje je w odwrotnej kolejności.
 20.Dla tablicy liczb całkowitych znajdź jednocześnie minimum i maksimum tablicy
 21.Napisz program, który wyznaczy ilość wystąpień liczby k w podanym ciągu liczb.
 22.Napisz program, który losuję liczbę z przedziału <1,100>
-23.Napisz program TOTOLOTEK, który losuj 6 liczb z przedziału <6,49> Dla chętnych: liczby nie mogą sie powtarzać.
-23.Napisz program, który przy pomocy instrukcji switch obliczy liczbę samogłosek we wprowadzonych przez użytkowniak tekście.
+23.Napisz program TOTOLOTEK, który losuj 6 liczb z przedziału <1,49> Dla chętnych: liczby nie mogą sie powtarzać.
+24.Napisz program, który przy pomocy instrukcji switch obliczy liczbę samogłosek we wprowadzonych przez użytkowniak tekście.
 Każda samogłoska ma być obliczona oddzielnie.
-24.Napisz program, który dzieli dwie liczby całkowite. Zabezpiecz program przed dzieleniem przez ZERO!
+25.Napisz program, który dzieli dwie liczby całkowite. Zabezpiecz program przed dzieleniem przez ZERO!
 
