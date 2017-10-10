@@ -12,8 +12,8 @@ import java.util.*;
  */
 public class Zadanie18 {
     public static void main(String[] args) throws IOException {
-        List<String> list1=Files.readAllLines(Paths.get("C:\\Users\\operator\\IdeaProjects\\Zamoy\\src\\pl\\tomaszidzikowski\\klasytrzecie\\plik1.txt"));
-        List<String> list2=Files.readAllLines(Paths.get("C:\\Users\\operator\\IdeaProjects\\Zamoy\\src\\pl\\tomaszidzikowski\\klasytrzecie\\plik2.txt"));
+        List<String> list1=Files.readAllLines(Paths.get("plik1.txt"));
+        List<String> list2=Files.readAllLines(Paths.get("plik2.txt"));
         Set<String> set1=new HashSet<>(list1);
         Set<String> set2=new HashSet<>(list2);
         System.out.println(set1);
